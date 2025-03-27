@@ -46,7 +46,7 @@ You’ll need the following installed on your computer:
 ### 🔧 1. Clone the Project
 
 ```bash
-git clone 
+git clone https://github.com/AntonioBurgov/notes_app
 cd notes-app
 
 
