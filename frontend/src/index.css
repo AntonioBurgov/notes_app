@@ -1,0 +1,19 @@
+.app {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.note-form input,
+.note-form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+}
+
+.note-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
